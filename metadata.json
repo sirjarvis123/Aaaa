@@ -1,0 +1,10 @@
+{
+  "name": "Alka - AI Voice Assistant",
+  "description": "Futuristic full-stack AI Voice Assistant called Alka, created by Kingmaker. Cyberpunk HUD interface with low-latency bidirectional voice and terminal-based controls.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
